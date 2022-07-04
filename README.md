@@ -5,7 +5,7 @@
 1)根据1-3文件夹里面的数据将所需文件放在运行目录下面；  
 2)在Jupyter Notebook运行 Wordfreq_Davion.py 主程序；  
 
-# dataset description:
+# Dataset description:
 1)test.txt 文件存放上市公司文本数据，可以根据爬取的PDF文件转换为该纯文本格式；    
 2)stopwordlist.txt 文件为停用词词典；   
 3)add_word_list.txt 文件格式是"单词"+"空格"+"n"，或者其他vn、a、nr等词性；针对词典可能存在的“专有名词、网络名词和歧义分割”等缺陷，定义用户词典，同时可以对词性进行过滤；该项目中存放了与上市公司数字化转型相关的关键词表；    
